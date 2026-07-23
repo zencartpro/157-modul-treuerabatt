@@ -25,7 +25,12 @@ Weitere Features:
 * Das Modul deaktiviert sich automatisch, wenn es feststellt, dass ein Gutschein auf die Bestellung angewendet wurde.
 * Während des Bezahlvorgangs wird dem Kunden angegeben, auf welche Bestandteile (Artikel, Versandkosten und Steuern) sich der Rabatt bezieht.
 
+# Voraussetzungen
+* Zen Cart 1.5.7k deutsch 
+* PHP 8.4.x
+
 # Installation
+* Backup von Shop und Datenbank machen
 * Die Ordner/Dateien im Ordner NEUE DATEIEN in der vorgegebenen Strauktur ins Shopverzeichnis hochladen. 
 * Dabei werden keine bestehenden Dateien überschrieben.
 * Unter Module > Zusammenfassung das Modul ot_loyalty_discount installieren und nach Ihren Wünschen konfigurieren.
